@@ -1,0 +1,1 @@
+<?require($_SERVER["DOCUMENT_ROOT"]."/local/modules/astramedia.links/admin/links_element_edit.php");?>
