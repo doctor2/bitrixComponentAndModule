@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: CheGo
- * Date: 02.05.2016
- * Time: 16:06
- */
 use \Bitrix\Main\Localization\Loc;
 use \Bitrix\Main\Loader;
 use \Bitrix\Main\Entity\Base;
